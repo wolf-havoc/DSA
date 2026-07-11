@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/wolf-havoc/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/wolf-havoc/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/wolf-havoc/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/wolf-havoc/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,14 +52,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wolf-havoc/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wolf-havoc/DSA/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wolf-havoc/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
