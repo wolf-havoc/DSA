@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/wolf-havoc/DSA/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/wolf-havoc/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/wolf-havoc/DSA/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/wolf-havoc/DSA/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
