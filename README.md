@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/wolf-havoc/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/wolf-havoc/DSA/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/wolf-havoc/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/wolf-havoc/DSA/tree/master/0072-edit-distance) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
