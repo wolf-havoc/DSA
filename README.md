@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/wolf-havoc/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/wolf-havoc/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/wolf-havoc/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/wolf-havoc/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wolf-havoc/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/wolf-havoc/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/wolf-havoc/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/wolf-havoc/DSA/tree/master/0289-game-of-life) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/wolf-havoc/DSA/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/wolf-havoc/DSA/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
