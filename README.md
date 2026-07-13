@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/wolf-havoc/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/wolf-havoc/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/wolf-havoc/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/wolf-havoc/DSA/tree/master/0875-koko-eating-bananas) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/wolf-havoc/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/wolf-havoc/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/wolf-havoc/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/wolf-havoc/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
