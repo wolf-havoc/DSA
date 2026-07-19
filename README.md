@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/wolf-havoc/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/wolf-havoc/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/wolf-havoc/DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/wolf-havoc/DSA/tree/master/0994-rotting-oranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wolf-havoc/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/wolf-havoc/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/wolf-havoc/DSA/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/wolf-havoc/DSA/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/wolf-havoc/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/wolf-havoc/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/wolf-havoc/DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/wolf-havoc/DSA/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
