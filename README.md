@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/wolf-havoc/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/wolf-havoc/DSA/tree/master/0994-rotting-oranges) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/wolf-havoc/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2615-sum-of-distances](https://github.com/wolf-havoc/DSA/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/wolf-havoc/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/wolf-havoc/DSA/tree/master/0127-word-ladder) |
+| [2615-sum-of-distances](https://github.com/wolf-havoc/DSA/tree/master/2615-sum-of-distances) |
 ## Matrix
 |  |
 | ------- |
@@ -120,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/wolf-havoc/DSA/tree/master/0238-product-of-array-except-self) |
+| [2615-sum-of-distances](https://github.com/wolf-havoc/DSA/tree/master/2615-sum-of-distances) |
 <!---LeetCode Topics End-->
